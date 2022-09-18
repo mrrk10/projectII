@@ -1,0 +1,31 @@
+.btn1{
+    border-radius: 2px  ;
+    margin:5px 5px ;
+    padding: 5px;
+}
+.btn1:hover{
+    background-color: aqua;
+}
+    
+ .btn2{
+    border-radius: 2px  ;
+    margin:5px 5px ;
+    padding: 5px;
+}
+.btn2:hover{
+    background-color: aqua;
+
+}
+.btn3{
+    border-radius: 2px  ;
+    margin:5px 5px ;
+    padding: 5px;
+}
+.btn3:hover{
+    background-color: aqua;
+} 
+
+
+    
+
+    
